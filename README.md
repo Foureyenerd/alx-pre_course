@@ -1,4 +1,4 @@
-The first Readme file
+The first Readme
 My name is Abdulsobur Sadiq
 I love to 💻 📖
 
